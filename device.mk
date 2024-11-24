@@ -6,5 +6,4 @@
 #
 
 LOCAL_PATH := device/alps/ac8257_demo
-# API
-PRODUCT_SHIPPING_API_LEVEL := 28
+
